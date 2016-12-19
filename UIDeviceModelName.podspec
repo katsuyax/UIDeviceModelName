@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "UIDeviceModelName"
   s.version      = "1.0.2"
-  s.summary      = "Extend to UIDevide class and obtain model name of iOS terminal."
+  s.summary      = "Extention of UIDevice to get the model name of the iOS devices."
   s.homepage     = "https://github.com/katsuyax/UIDeviceModelName"
   s.license      = { :type => "MIT", :file => "LICENCE" }
   s.author             = { "CrossBridge(Katsuya Kato)" => "crossbridge.kato@gmail.com" }
