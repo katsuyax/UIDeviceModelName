@@ -105,7 +105,7 @@ public extension UIDevice {
         return identifier
     }
     
-    var modelName: String {
+    public var modelName: String {
         let code = modelCode
         return devices[code] ?? code
     }

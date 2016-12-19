@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "UIDeviceModelName"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "Extend to UIDevide class and obtain model name of iOS terminal."
   s.homepage     = "https://github.com/katsuyax/UIDeviceModelName"
   s.license      = { :type => "MIT", :file => "LICENCE" }
