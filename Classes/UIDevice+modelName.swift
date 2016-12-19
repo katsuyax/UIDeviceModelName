@@ -88,7 +88,7 @@ private let devices =
         "i386"      : "Simulator",
 ]
 
-extension UIDevice {
+public extension UIDevice {
     var modelCode: String {
         var systemInfo = utsname()
         uname(&systemInfo)
