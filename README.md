@@ -9,6 +9,8 @@ Swift3
 ## Usage
 
 ```
+import UIDeviceModelName
+
 print(UIDevice.current.modelName)
 ```
 
