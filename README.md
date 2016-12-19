@@ -11,7 +11,7 @@ Swift3
 ```
 import UIDeviceModelName
 
-print(UIDevice.current.modelName)
+print(UIDevice.current.modelName) // ex) iPhone 7 , iPhone 6 Plus ...
 ```
 
 ## License
