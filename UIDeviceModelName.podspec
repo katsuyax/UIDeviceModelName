@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "UIDeviceModelName"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "Extention of UIDevice to get the model name of the iOS devices."
   s.homepage     = "https://github.com/katsuyax/UIDeviceModelName"
   s.license      = { :type => "MIT", :file => "LICENCE" }
