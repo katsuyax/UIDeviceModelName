@@ -1,6 +1,8 @@
 ## Installation
 
-> pod 'UIDeviceModelName'
+```
+pod 'UIDeviceModelName'
+```
 
 ## Requirements
 
