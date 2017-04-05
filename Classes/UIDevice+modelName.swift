@@ -1,7 +1,7 @@
 //
 //  The MIT License (MIT)
 //
-//  Copyright (c) 2016 CrossBridge(Katsuya Kato)
+//  Copyright (c) 2017 CrossBridge(Katsuya Kato)
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal
@@ -63,10 +63,12 @@ private let devices =
         "iPad4,3"   : "iPad Air",
         "iPad5,3"   : "iPad Air 2",
         "iPad5,4"   : "iPad Air 2",
-        "iPad6,7"   : "iPad Pro 12.9 inch",
-        "iPad6,8"   : "iPad Pro 12.9 inch",
         "iPad6,3"   : "iPad Pro 9.7 inch",
         "iPad6,4"   : "iPad Pro 9.7 inch",
+        "iPad6,7"   : "iPad Pro 12.9 inch",
+        "iPad6,8"   : "iPad Pro 12.9 inch",
+        "iPad6,11"   : "iPad 5",
+        "iPad6,12"   : "iPad 5",
         "iPad2,5"   : "iPad Mini",
         "iPad2,6"   : "iPad Mini",
         "iPad2,7"   : "iPad Mini",
@@ -84,6 +86,7 @@ private let devices =
         "iPod4,1"   : "iPod touch 4G",
         "iPod5,1"   : "iPod touch 5G",
         "iPod7,1"   : "iPod touch 6G",
+        "AppleTV5,3"   : "Apple TV 4",
         "x86_64"    : "Simulator",
         "i386"      : "Simulator",
 ]
