@@ -13,7 +13,7 @@ Swift3
 ```
 import UIDeviceModelName
 
-print(UIDevice.current.modelName) // ex) iPhone 7 , iPhone 6 Plus ...
+print(UIDevice.current.modelName) // ex) iPhone 8 , iPhone 8 Plus ...
 ```
 
 ## Supported devices
@@ -24,6 +24,8 @@ print(UIDevice.current.modelName) // ex) iPhone 7 , iPhone 6 Plus ...
 - iPhone 6 / 6 Plus / 6s / 6 Plus
 - iPhone 7 / 7 Plus
 - iPhone SE
+- iPhone 8 / 8 Plus
+- iPhone X
 - iPad 1 / 2 / 3 / 4 / 5
 - iPad Air / Air2
 - iPad Pro 12.9 inch 1 / 2
