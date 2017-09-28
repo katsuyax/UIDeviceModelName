@@ -34,6 +34,7 @@ print(UIDevice.current.modelName) // ex) iPhone 8 , iPhone 8 Plus ...
 - iPad mini /  mini 2 / mini 3 / mini 4
 - iPod touch / 2G / 3G / 4G / 5G / 6G
 - Apple TV 4
+- Apple TV 4K
 
 ## License
 

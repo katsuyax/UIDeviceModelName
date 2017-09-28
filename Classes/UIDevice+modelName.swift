@@ -97,6 +97,7 @@ private let devices =
         "iPod5,1"   : "iPod touch 5G",
         "iPod7,1"   : "iPod touch 6G",
         "AppleTV5,3"   : "Apple TV 4",
+        "AppleTV6,2"   : "Apple TV 4K",
         "x86_64"    : "Simulator",
         "i386"      : "Simulator",
 ]
